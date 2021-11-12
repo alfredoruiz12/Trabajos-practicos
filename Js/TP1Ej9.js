@@ -16,6 +16,3 @@ for(let posicion = 0; posicion < frase.length; posicion++ )
 } 
 
 
-/*PREGUNTAR COMO HAGO LA PREGUNTA IF de letra por letra.*/
-
-/* */
